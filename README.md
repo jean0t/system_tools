@@ -19,8 +19,8 @@ A collection of **system tools** written in **Go**, designed for **Linux** 🐧 
 ## ⚙️ Usage
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/jean0t/your-repo.git
-   cd your-repo
+   git clone [https://github.com/jean0t/your-repo.git](https://github.com/jean0t/system_tools.git)
+   cd system_tools
    ```
 
 2. **Run the tools**:
@@ -58,7 +58,7 @@ interval=5
 More system tools are on the way! Stay tuned for additional utilities to enhance your **Linux** experience.
 
 ## 📃 License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **GPL-3 License**. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html)) file for details.
 
 ---
 
