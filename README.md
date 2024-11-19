@@ -58,7 +58,7 @@ interval=5
 More system tools are on the way! Stay tuned for additional utilities to enhance your **Linux** experience.
 
 ## 📃 License
-This project is licensed under the **GPL-3 License**. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html)) file for details.
+This project is licensed under the **GPL-3 License**. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) file for details.
 
 ---
 
